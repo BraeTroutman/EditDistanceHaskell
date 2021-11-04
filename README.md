@@ -1,1 +1,1 @@
-# SimulatedAnnealingHaskell
+# EditDistanceHaskell
